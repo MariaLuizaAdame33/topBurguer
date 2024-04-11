@@ -22,6 +22,7 @@ class ClientesController extends Controller
                 'endereco' => $clientes->endereco,
                 'email' => $clientes->email,
                 'password' => $clientes->password,
+                'cpf' => $clientes->cpf
                 
 
             ];

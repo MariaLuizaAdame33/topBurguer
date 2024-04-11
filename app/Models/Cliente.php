@@ -14,6 +14,7 @@ class Cliente extends Model
         'celular',
         'endereco',
         'email',
-        'password'
+        'password',
+        'cpf'
     ];
 }
